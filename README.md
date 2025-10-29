@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puja-rani-tripathy-618885227/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PujaraniTripat1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pujaranitripathy601@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,nginx,aws,vercel,tailwind,bootstrap,git,github,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,mongodb,postgres,redis,nginx,aws,vercel,git,github,postman,figma,tailwind,bootstrap&perline=8)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
